@@ -1,4 +1,4 @@
-name: Probot Example
+name: Spectral probot example
 description: "Example Action built with Probot"
 branding:
   icon: "gift"

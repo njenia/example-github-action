@@ -1,8 +1,7 @@
 name: Say Hello World
 on:
-  issues:
-    types:
-      - opened
+  pull_request:
+    types: [opened, synchronize]
 
 jobs:
   issuesOpened:
