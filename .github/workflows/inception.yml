@@ -4,7 +4,7 @@ on:
     types: [opened, synchronize]
 
 jobs:
-  issuesOpened:
+  sayHello:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
