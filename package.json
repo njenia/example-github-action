@@ -18,7 +18,7 @@
     "@zeit/ncc": "^0.22.3",
     "semantic-release": "^17.4.5",
     "nock": "^13.1.1",
-    "uvu": "^0.5.1"
+    "uvu": "^0.5.2"
   },
   "release": {
     "branches": [
